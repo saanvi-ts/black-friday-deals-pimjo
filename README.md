@@ -6,6 +6,12 @@ This repo list brings together **verified deals and discounts on developer tools
 
 > **Total Deals Count**: 31+
 
+## Featured Deals
+
+| [Meku](https://meku.dev/?ref=PimjoGitHub) <br/> 🔥 30% OFF | [Lineicons](https://lineicons.com/?ref=PimjoGitHub) <br/> 🔥 40% OFF | [TailAdmin](https://tailadmin.com/?ref=PimjoGitHub) <br/> 🔥 30% OFF |
+| --- | --- | --- |
+| <a href="https://meku.dev/?ref=PimjoGitHub"><img width="420" src="https://github.com/user-attachments/assets/6fda2a1b-5c11-4f94-a7ad-e1fc5c7dbca7" /></a> | <a href="https://lineicons.com/?ref=PimjoGitHub"><img width="420" src="https://github.com/user-attachments/assets/64852580-1c9c-4294-b88f-1a445f618155" /></a> | <a href="https://tailadmin.com/?ref=PimjoGitHub"><img width="420" src="https://github.com/user-attachments/assets/c29a3895-d009-4a31-a44b-6cdecbb9a6a5" /></a> |
+| Meku.dev is an AI-powered site and app builder for developers. Generate and depploy full-stack projects from simple prompts with essential tools and hosting. <br/> <br/>  Coupon: **BLFCM2025** | Lineicons offers 30,000+ precision-crafted icons in 10 styles, delivering consistent, scalable visuals that integrate smoothly across products and formats. <br/>  <br/> Coupon: **BLFCM2025** | Industry-leading Tailwind CSS dashboard kit with 500+ components for modern admin panels. Available for HTML, React, Next.js, Vue, Laravel, and Angular. <br/>  <br/> Coupon: **BLFCM2025** |
 
 ## Overview
 
@@ -225,6 +231,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
