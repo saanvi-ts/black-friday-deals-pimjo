@@ -4,7 +4,7 @@ The ultimate **Black Friday** and **Cyber Monday 2025** Deals collection for dev
 
 This repo list brings together **verified deals and discounts on developer tools, SaaS products, UI kits, templates, design assets, and AI tools** - all curated to help you **build faster, design better, and save bigger** this season.
 
-> **Total Deals Count**: 31+
+> **Total Deals Count**: 101+
 
 ## Featured Deals
 
@@ -165,9 +165,6 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**GhostHunt**](https://unapologeticih.gumroad.com/l/sctuym) | Airtable database (Vol. 1 & 2) with 1900+ Ghost newsletters including titles, categories, descriptions, and member counts. | 50% OFF Lifetime Access (Coupon: `50GHOST`) | Nov 18 – Dec 15, 2025 |
 | [**WP SMS**](https://wp-sms-pro.com/) | WordPress plugin for sending SMS alerts, notifications, and marketing messages with 300+ gateway integrations. | 40% OFF Premium plans (Coupon: `BLACKFRIDAY40`) | Nov 24 – Dec 2, 2025 |
 | [**WP Statistics**](https://wp-statistics.com/) | Privacy-friendly WordPress analytics plugin for tracking visitors, traffic trends, and real-time insights without external services. | 40% OFF Premium plans (Coupon: `BLACKFRIDAY40`) | Nov 24 – Dec 2, 2025 |
-| [**Snov.io**](https://snov.io/) | Email finder and verification platform for discovering, validating, and managing lead emails at scale with built-in prospecting tools. | 50% OFF Annual Plan (Coupon: `BLACKFRIDAY`) | Nov 24 – Dec 3, 2025 |
-| [**Onestream Live**](https://onestream.live/) | Cloud-based live streaming platform for scheduling, multistreaming, and real-time broadcasting. | 40% OFF monthly (Coupon: `SAVE40`) and 10% OFF yearly (Coupon: `SAVE10`) | Nov 10 – Dec 5, 2025 |
-
 
 ---
 
@@ -269,6 +266,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
